@@ -1,0 +1,16 @@
+﻿C:\ProgramData\chocolatey\lib\lua51\tools\bin2c5.1.exe
+C:\ProgramData\chocolatey\lib\lua51\tools\lua5.1.dll
+C:\ProgramData\chocolatey\lib\lua51\tools\lua5.1.dll.manifest
+C:\ProgramData\chocolatey\lib\lua51\tools\lua5.1.exe
+C:\ProgramData\chocolatey\lib\lua51\tools\lua5.1.exe.manifest
+C:\ProgramData\chocolatey\lib\lua51\tools\lua51.dll
+C:\ProgramData\chocolatey\lib\lua51\tools\lua51.dll.manifest
+C:\ProgramData\chocolatey\lib\lua51\tools\luac5.1.exe
+C:\ProgramData\chocolatey\lib\lua51\tools\Microsoft.VC80.CRT
+C:\ProgramData\chocolatey\lib\lua51\tools\Microsoft.VC80.CRT\Microsoft.VC80.CRT.manifest
+C:\ProgramData\chocolatey\lib\lua51\tools\Microsoft.VC80.CRT\msvcm80.dll
+C:\ProgramData\chocolatey\lib\lua51\tools\Microsoft.VC80.CRT\msvcp80.dll
+C:\ProgramData\chocolatey\lib\lua51\tools\Microsoft.VC80.CRT\msvcr80.dll
+C:\ProgramData\chocolatey\lib\lua51\tools\wlua5.1.exe
+C:\ProgramData\chocolatey\lib\lua51\tools\wlua5.1.exe.manifest
+

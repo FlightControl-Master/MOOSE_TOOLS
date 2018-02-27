@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>luarocks</id>
+    <version>2.4.3</version>
+    <title>LuaRocks</title>
+    <authors>Kepler Project</authors>
+    <owners>Kepler Project</owners>
+    <licenseUrl>https://github.com/luarocks/luarocks/blob/master/COPYING</licenseUrl>
+    <projectUrl>https://luarocks.org/</projectUrl>
+    <iconUrl>http://luarocks.github.io/luarocks/luarocks.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>LuaRocks is the package manager for Lua modules. It allows you to create and install Lua modules as self-contained packages called rocks. LuaRocks is free software and uses the same license as Lua.</description>
+    <summary>A package manager for Lua modules.</summary>
+    <releaseNotes>https://luarocks.org/changes</releaseNotes>
+    <copyright>Copyright 2007-2014 Kepler Project.</copyright>
+    <tags>luarocks lua</tags>
+    <projectSourceUrl>https://github.com/luarocks/luarocks</projectSourceUrl>
+    <packageSourceUrl>https://github.com/andyli/luarocks-choco</packageSourceUrl>
+    <docsUrl>https://github.com/luarocks/luarocks/wiki/Documentation</docsUrl>
+    <mailingListUrl>https://github.com/luarocks/luarocks/wiki/Mailing-list</mailingListUrl>
+    <bugTrackerUrl>https://github.com/luarocks/luarocks/issues</bugTrackerUrl>
+  </metadata>
+</package>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>lua51</id>
+    <version>5.1.5</version>
+    <title>lua 51 Binaries</title>
+    <authors>Antonio Scuri,  André Carregal,  Danilo Tuler,  Diego Nehab</authors>
+    <owners>Antonio Scuri,  André Carregal,  Danilo Tuler,  Diego Nehab</owners>
+    <licenseUrl>http://luabinaries.sourceforge.net/license.html</licenseUrl>
+    <projectUrl>http://luabinaries.sourceforge.net/index.html</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/Link-Satonaka/chocopkgs/4585dfa19896a347851725c4c6d87b66b20365c3/lua.gif</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Since Lua offers no standard set of libraries, many projects and teams have to build their own version of the Lua libraries and this can create binary incompatibilities among the resulting products. Tecgraf/PUC-Rio and Kepler Project teams have a lot of shared products, so it made no sense to keep maintaining two (incompatible) sets of Lua libraries in parallel. While it would be nice to have a single standard for the whole Lua community, that is still not the reality. So both teams merged their requirements and now use a common set of files. Those files are called LuaBinaries and are available here for other Lua developers that want to use them.</description>
+    <summary>LuaBinaries is a distribution of the Lua libraries and executables</summary>
+    <releaseNotes>http://luabinaries.sourceforge.net/index.html#history</releaseNotes>
+    <copyright />
+    <tags>lua-binaries lua51 dll libraries</tags>
+    <projectSourceUrl>http://luabinaries.sourceforge.net/download.html</projectSourceUrl>
+    <packageSourceUrl>https://github.com/Link-Satonaka/chocopkgs/tree/master/lua51</packageSourceUrl>
+    <docsUrl>http://luabinaries.sourceforge.net/manual.html</docsUrl>
+  </metadata>
+</package>
